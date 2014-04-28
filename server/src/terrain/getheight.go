@@ -1,7 +1,7 @@
 package terrain
 
 import (
-	"github.com/huin/chunkymonkey/perlin"
+	"huin/chunkymonkey/perlin"
 )
 
 func GetHeight (x, y float32) float32 {
